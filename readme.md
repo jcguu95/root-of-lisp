@@ -1,6 +1,6 @@
-# Root of Lisp
+# Roots of Lisp
 
-This is an implementation of  Root of Lisp, specified in Paul Graham's paper
-[1]. It uses Common Lisp to write an interpretor of Root of Lisp.
+`Roots of Lisp (ROL)` is a minimal lisp specified in Paul Graham's paper [1].
+This project implements an interpretor for ROL using Common Lisp.
 
-[1] TODO
+[1] http://www.paulgraham.com/rootsoflisp.html
